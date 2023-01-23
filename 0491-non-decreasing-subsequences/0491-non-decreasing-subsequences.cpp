@@ -6,7 +6,7 @@ public:
         if(__builtin_popcount(i)<2) return {};
         int j = 0;
         vector<int> v;
-        while(i)
+        while(i>0)
         {
             if(i&1) 
             {
