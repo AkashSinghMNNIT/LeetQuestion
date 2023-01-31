@@ -1,22 +1,41 @@
-class Solution {
-public:
-    int bestTeamScore(vector<int>& scores, vector<int>& ages) {
-        int n = scores.size(), ans = 0;
-        vector<vector<int>> arr(n+1, vector<int>(2, 0));
-        
-        for(int i = 1; i<=n; ++i) arr[i][1] = scores[i-1], arr[i][0] = ages[i-1];
-        sort(arr.begin(), arr.end());
-        int dp[n+1];
-        fill(dp, dp+n+1, 0);
-        for(int i = 1; i<=n; ++i)
+class Solution
+{
+    public:
+        int bestTeamScore(vector<int> &scores, vector<int> &ages)
         {
-            for(int j = i; j>0; --j)
+            int mxage = 0, n = scores.size(), ans = 0;
+            vector<vector < int>> arr(n, vector<int> (2));
+
+            for (int i = 0; i < n; ++i) arr[i][0] = scores[i], arr[i][1] = ages[i], mxage = max(mxage, ages[i]);
+            sort(arr.begin(), arr.end());
+            int sc[mxage + 1];
+            fill(sc, sc + mxage + 1, 0);
+
+            for (int i = 0; i < n; ++i)
             {
-                if(arr[i][0] > arr[j][0] && arr[i][1] < arr[j][1]) continue;
-                dp[i] = max(dp[i], dp[j] + arr[i][1]);
+                sc[arr[i][1]] = max(sc[arr[i][1]], arr[i][0] + query(sc, arr[i][1], mxage));
+                update(sc, arr[i][1], mxage);
+                ans = max(ans, sc[arr[i][1]]);
             }
-            ans = max(ans, dp[i]);
+            return ans;
         }
-        return ans;
+
+    int query(int sc[], int age, int mxage)
+    {
+        int currbest = 0;
+        for (int i = age; i > 0; i -= i &(-i))
+        {
+            currbest = max(sc[i], currbest);
+        }
+        return currbest;
+    }
+
+    void update(int sc[], int age, int mxage)
+    {
+        int currbest = sc[age];
+        for (int i = age; i <= mxage; i += i &(-i))
+        {
+            sc[i] = max(sc[i], currbest);
+        }
     }
 };
