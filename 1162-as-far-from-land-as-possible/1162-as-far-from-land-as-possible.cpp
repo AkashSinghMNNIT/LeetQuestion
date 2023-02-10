@@ -48,6 +48,6 @@ class Solution
                     }
                 }
             }
-            return ans;
+            return --dis;
         }
 };
