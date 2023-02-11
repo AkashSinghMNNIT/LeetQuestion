@@ -36,19 +36,14 @@ class Solution {
         
         int ans = 0, cnt = 0;
         for(int i = 0; i<n-1; ++i) hsh[i] = s[i]==s[i+1], cnt += s[i]==s[i+1];
-        // for(int i = 0; i<n; ++i) cout<<hsh[i]<<" ";
+        
         for(auto it: p)
         {
             if(cnt <= 0) return ans;
             ++ans;
-            if(hsh[it])
-            {
-                hsh[it] = 0;
-                --cnt;
-            }
+            cnt -= hsh[it], hsh[it] = 0;
             if(it) cnt -= hsh[it-1], hsh[it-1] = 0;
         }
-        
         return ans;
     }
 };
