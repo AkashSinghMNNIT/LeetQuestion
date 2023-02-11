@@ -1,37 +1,37 @@
 class Solution {
 public:
-    vector<int> shortestAlternatingPaths(int n, vector<vector<int>>& redEdges,
-                                         vector<vector<int>>& blueEdges) {
-        vector<vector<pair<int, int>>> adj(n);
-        for (auto& redEdge : redEdges) {
-            adj[redEdge[0]].push_back({redEdge[1], 0});
-        }
-        for (auto& blueEdge : blueEdges) {
-            adj[blueEdge[0]].push_back(make_pair(blueEdge[1], 1));
-        }
-
-        vector<int> answer(n, -1);
-        vector<vector<bool>> visit(n, vector<bool>(2));
-        queue<vector<int>> q;
-
-        // Start with node 0, with number of steps as 0 and undefined color -1.
-        q.push({0, 0, -1});
-        visit[0][1] = visit[0][0] = true;
-        answer[0] = 0;
-
-        while (!q.empty()) {
-            auto element = q.front();
-            int node = element[0], steps = element[1], prevColor = element[2];
-            q.pop();
-
-            for (auto& [neighbor, color] : adj[node]) {
-                if (!visit[neighbor][color] && color != prevColor) {
-                    visit[neighbor][color] = true;
-                    q.push({neighbor, 1 + steps, color});
-                    if (answer[neighbor] == -1) answer[neighbor] = 1 + steps;
+    vector<int> shortestAlternatingPaths(int n, vector<vector<int>>& redEdges, vector<vector<int>>& blueEdges) {
+        vector<pair<int, int>> adj[n];
+        
+        for(auto it: redEdges) adj[it[0]].push_back({it[1], 0});
+        for(auto it: blueEdges) adj[it[0]].push_back({it[1], 1});
+        
+        bool vis[n][2];
+        memset(vis, 0, sizeof(vis));
+        vis[0][0] = vis[0][1] = 1;
+        vector<int> ans(n, -1);
+        queue<pair<int, int>> q;
+        vis[0][0] = vis[0][1] = 1;
+        q.push({0, -1});
+        int dis = 0;
+        ans[0] = 0;
+        while(!q.empty())
+        {
+            int sz = q.size();
+            ++dis;
+            for(int i = 0; i<sz; ++i)
+            {
+                auto curr = q.front();
+                q.pop();
+                for(auto it: adj[curr.first])
+                {
+                    if(vis[it.first][it.second] || it.second == curr.second) continue;
+                    vis[it.first][it.second] = 1;
+                    ans[it.first] = (ans[it.first]==-1?dis:ans[it.first]);
+                    q.push(it);
                 }
             }
         }
-        return answer;
+        return ans;
     }
 };
