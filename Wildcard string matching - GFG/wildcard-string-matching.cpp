@@ -11,7 +11,7 @@ class Solution{
         int n = wild.length(), m = pat.length();
         int arr[n+1][m+1];
         arr[0][0] = 1;
-        for(int i = 1; i<=m; ++i) arr[0][i] = 0;
+        for(int i = 1; i<m; ++i) arr[0][i] = 0;
         for(int i = 1; i<=n; ++i) arr[i][0] = arr[i-1][0] && (wild[i-1]=='*');
         for(int i = 1; i<=n; ++i)
         {
