@@ -10,8 +10,8 @@ public:
         {
             for(int j = 1; j<=m; ++j)
             {
-                dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
-                if(a[i-1]==b[j-1]) dp[i][j] = max(dp[i][j], 1 + dp[i-1][j-1]);
+                if(a[i-1]==b[j-1]) dp[i][j] = 1 + dp[i-1][j-1];
+                else dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
             }
         }
         return dp[n][m];
