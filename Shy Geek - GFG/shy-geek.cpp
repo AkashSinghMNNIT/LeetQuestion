@@ -48,22 +48,21 @@ class Solution{
         this->shop = s;
     }
     long long find(int n, long k){
-        int x, l = -1, h = n;
+        int x, y,l = -1, h = n;
         
         while(h-l>1)
         {
             int mid = (h+l)/2;
             x = shop.get(mid);
-            if(x == -1) return 2;
-            if(x <= k) l = mid;
+            // if(x == -1) return 2;
+            if(x <= k) y = x, l = mid;
             else h =mid;
         }
         if(l == -1) return 0;
         else  
         {
-            x = shop.get(l);
-            if(x == -1) return 2;
-            return k/x + find(l+2, k%x);
+            // x = shop.get(l);
+            return k/y + find(l+2, k%y);
         }
     }
 
