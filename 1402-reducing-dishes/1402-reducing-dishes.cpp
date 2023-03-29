@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxSatisfaction(vector<int>& v) {
-        int n = size(v), inf = 1e8;
+        int n = size(v), inf = 1e7;
         sort(begin(v), end(v));
         vector<vector<int>> dp(n+1, vector<int>(n+1, -inf));
         for(int i=0; i<=n; ++i) dp[i][0] = 0;
@@ -14,6 +14,7 @@ public:
         }
         int ans = 0;
         for(int i = 0; i<=n; ++i) ans = max(ans, dp[n][i]);
+
         return ans;
     }
 };
