@@ -22,7 +22,7 @@ public:
            else odd += x[i]-'0';
        }
        
-       return (11 + (even - odd)%11) %11;
+       return (11 + (even - odd)%11)%11;
     
     }
 };
