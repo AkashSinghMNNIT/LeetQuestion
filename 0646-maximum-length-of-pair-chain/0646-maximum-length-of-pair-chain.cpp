@@ -14,7 +14,6 @@ public:
         int l = -1e4, ans = 0;
         for(auto it: p)
         {
-            cout<<it[0]<<","<<it[1]<<"  ";
             if(it[0] > l) ++ans, l = it[1];
         }
         cout<<endl;
