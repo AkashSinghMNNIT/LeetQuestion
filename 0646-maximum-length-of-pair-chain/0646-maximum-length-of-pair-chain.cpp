@@ -15,10 +15,9 @@ public:
         for(auto it: p)
         {
             cout<<it[0]<<","<<it[1]<<"  ";
-            if(it[0] <= l) ++ans;
-            else l = it[1];
+            if(it[0] > l) ++ans, l = it[1];
         }
         cout<<endl;
-        return n-ans;
+        return ans;
     }
 };
