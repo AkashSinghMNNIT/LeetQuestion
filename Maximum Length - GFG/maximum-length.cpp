@@ -10,18 +10,8 @@ using namespace std;
 class Solution {
 public:
     int solve(int a, int b, int c) {
-        // code here
-        int minn = b, maxx = max(a, max(b, c)) + 1;
-        
-        if(a < b){
-            minn = a;
-            if(a < c)   minn += min(b, c);
-            else    minn += c;
-        }else if(b < c) minn += min(a, c);
-        else   minn += c;
-        
-        if(minn >= (maxx/2 - 1))   return a+b+c;
-        return -1;
+        if(a>2*(b+c+1) || b>2*(a+c+1) || c>2*(a+b+1)) return -1;
+        return a+b+c;
     }
 };
 
