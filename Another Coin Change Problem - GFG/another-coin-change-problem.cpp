@@ -22,14 +22,15 @@ class Array {
 
 
 // } Driver Code Ends
+
 class Solution {
   public:
     bool makeChanges(int n, int k, int tar, vector<int> &coins) {
         vector<vector<bool>> dp(k+1, vector<bool> (tar+1, 0));
         dp[0][0] = 1;
-        for(int sum = 1; sum<=tar; ++sum)
+        for(int noc = 1; noc <= k; ++noc) // noc -> number of coin
         {
-            for(int noc = 1; noc <= k; ++noc) // noc -> number of coin
+            for(int sum = 1; sum<=tar; ++sum)
             {
                 for(auto it: coins)
                 {
