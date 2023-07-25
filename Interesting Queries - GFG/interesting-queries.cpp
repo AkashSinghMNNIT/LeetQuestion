@@ -4,8 +4,8 @@ using namespace std;
 
 // } Driver Code Ends
 
-// int rootn = 318;
-#define rootn 318
+int rootn;
+// #define rootn 318
 
 class que {
     public:
@@ -21,7 +21,7 @@ public:
     }
 	vector<int>solveQueries(vector<int>nums, vector<vector<int>>Queries, int k){
 	    int n = nums.size(), m = Queries.size();
-	   // rootn = sqrtl(n) + 1;
+	    rootn = sqrtl(n) + 1;
 	    que q[m];
 	    for(int i= 0; i<Queries.size(); ++i)
 	    {
