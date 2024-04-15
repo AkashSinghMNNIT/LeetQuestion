@@ -26,7 +26,7 @@ public:
         dp.resize(n, vector<unordered_map<int, int>>(m));
         int ans = helper(nums, vals, 0, 0, (1 << 18) - 1);
         cout<<st.size()<<endl;
-        if (ans == 1e7 || st.size()>=1000)
+        if (ans == 1e7 || st.size()>=100)
             return -1;
         else
             return ans;
