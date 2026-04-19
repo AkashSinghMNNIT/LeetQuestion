@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
