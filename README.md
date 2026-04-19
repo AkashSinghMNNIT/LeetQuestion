@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Prefix Sum
@@ -37,13 +39,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
