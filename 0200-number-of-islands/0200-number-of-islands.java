@@ -14,8 +14,9 @@ class Solution {
         }
     }
     public int numIslands(char[][] grid) {
-        char[][] dup = grid;
         int n = grid.length, m = grid[0].length, ans = 0;
+        char[][] dup = new char[n][m];
+        for(int i = 0; i<n; ++i) dup[i] = grid[i].clone();
         for(int i = 0; i<n; ++i){
             for(int j = 0; j<m; ++j){
                 if(dup[i][j] == '1'){
@@ -23,6 +24,9 @@ class Solution {
                     dfs(i, j, dup);
                 }
             }
+        }
+        for(int i = 0; i<n; ++i){
+            for(int j = 0; j<m; ++j) System.out.println(grid[i][j]+" ");
         }
         return ans;
     }
