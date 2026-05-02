@@ -64,4 +64,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0788-rotated-digits](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0788-rotated-digits/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0788-rotated-digits](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0788-rotated-digits/) | Medium |
 <!---LeetCode Topics End-->
