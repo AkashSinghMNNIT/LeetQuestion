@@ -11,16 +11,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0788-rotated-digits/) | Medium |
 | [1397-find-all-good-strings](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1397-find-all-good-strings/) | Hard |
+| [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
