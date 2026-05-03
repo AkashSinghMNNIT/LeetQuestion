@@ -26,9 +26,7 @@ class Solution {
             prevpick = currpick;
             prevskip = currskip;
         }
-        long ans = 0;
-        for(int i = 0; i<=n; ++i) ans = Math.max(ans, prevpick[i]);
-        return ans;
-        // return Arrays.stream(prevpick).max().orElse(0L);
+        
+        return Arrays.stream(prevpick).max().orElse(0L);
     }
 }
