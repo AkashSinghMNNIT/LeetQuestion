@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0796-rotate-string/) | Easy |
 | [1397-find-all-good-strings](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1397-find-all-good-strings/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Simulation
@@ -77,5 +78,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0796-rotate-string/) | Easy |
 | [1397-find-all-good-strings](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1397-find-all-good-strings/) | Hard |
 <!---LeetCode Topics End-->
