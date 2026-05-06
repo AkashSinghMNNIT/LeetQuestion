@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1861-rotating-the-box/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Matrix
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0048-rotate-image/) | Medium |
 | [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
+| [1861-rotating-the-box](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1861-rotating-the-box/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Prefix Sum
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1861-rotating-the-box/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
