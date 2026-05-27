@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0796-rotate-string/) | Easy |
 | [1397-find-all-good-strings](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1397-find-all-good-strings/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0796-rotate-string/) | Easy |
 | [1397-find-all-good-strings](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1397-find-all-good-strings/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 <!---LeetCode Topics End-->
