@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1690-stone-game-vii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1690-stone-game-vii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1861-rotating-the-box/) | Medium |
+| [1872-stone-game-viii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1872-stone-game-viii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Matrix
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1872-stone-game-viii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## String
@@ -85,12 +87,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0788-rotated-digits/) | Medium |
 | [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1690-stone-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1872-stone-game-viii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0788-rotated-digits/) | Medium |
 | [1397-find-all-good-strings](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1397-find-all-good-strings/) | Hard |
 | [1690-stone-game-vii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1690-stone-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1872-stone-game-viii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -114,4 +118,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1690-stone-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
