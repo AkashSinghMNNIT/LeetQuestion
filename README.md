@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
+| [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1861-rotating-the-box/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
+| [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0048-rotate-image/) | Medium |
 | [0788-rotated-digits](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0788-rotated-digits/) | Medium |
+| [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +98,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 <!---LeetCode Topics End-->
