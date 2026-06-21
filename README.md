@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1872-stone-game-viii/) | Hard |
+| [2029-stone-game-ix](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2029-stone-game-ix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Matrix
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1690-stone-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1872-stone-game-viii/) | Hard |
+| [2029-stone-game-ix](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
+| [2029-stone-game-ix](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2029-stone-game-ix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +122,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1690-stone-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1872-stone-game-viii/) | Hard |
+| [2029-stone-game-ix](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
