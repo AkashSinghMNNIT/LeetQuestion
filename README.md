@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
+| [1306-jump-game-iii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1306-jump-game-iii/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1690-stone-game-vii/) | Medium |
@@ -61,12 +62,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
+| [1306-jump-game-iii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1306-jump-game-iii/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
+| [1306-jump-game-iii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1306-jump-game-iii/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
