@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0048-rotate-image/) | Medium |
+| [0055-jump-game](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0130-surrounded-regions](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0200-number-of-islands/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [0788-rotated-digits](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0788-rotated-digits/) | Medium |
 | [1397-find-all-good-strings](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1397-find-all-good-strings/) | Hard |
 | [1690-stone-game-vii](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1690-stone-game-vii/) | Medium |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/0055-jump-game/) | Medium |
 | [1686-stone-game-vi](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/1686-stone-game-vi/) | Medium |
 | [2029-stone-game-ix](https://github.com/AkashSinghMNNIT/LeetQuestion/tree/main/2029-stone-game-ix/) | Medium |
 ## Heap (Priority Queue)
